@@ -1,0 +1,28 @@
+body{
+    background-color: rgb(189, 224, 235);
+    color: black;
+}
+.div02{
+    background-color: rgb(175, 165, 145);
+    color: rgb(20, 20, 20);
+    text-align: center;
+    font-size: 100px;
+    font-weight: bold;
+    font-style: oblique;
+}
+.div03{
+    background-color: rgb(221, 216, 205);
+    color: rgb(20, 20, 20);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+}
+#teste{
+    background-color: rgb(221, 216, 205);
+    color: rgb(20, 20, 20);
+    text-align: center;
+    font-size: 30px;
+    font-weight: bold;
+    font-style: oblique;
+}
